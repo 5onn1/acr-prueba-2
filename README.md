@@ -32,7 +32,8 @@ PHP v8.2.18
 
 Es necesario tener habilitadas las extensiones para sqlite (pdo_sqlite, sqlite3).
 
-El proyecto se puede clonar desde github
+El proyecto se puede clonar desde github:
+- git clone https://github.com/5onn1/acr-prueba-2.git
 
 El archivo .env.example ya incluye la información necesaria para el proyecto.
 
