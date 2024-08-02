@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Uno",
+      "price": 5,
+      "image": "red-shoes"
+    },
+    {
+      "id": "2",
+      "name": "Dos",
+      "price": 10,
+      "image": "black-shoes"
+    },
+    {
+      "id": "3",
+      "name": "Tres",
+      "price": 15,
+      "image": "white-shoes"
+    }
+  ]
+}
